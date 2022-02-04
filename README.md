@@ -19,3 +19,7 @@ Image tool has 14 diffrent functions.
 - Increase Saturation
 
 And it has load and save buttons.
+[initial](./ss/1.png)
+[File](./ss/2.png)
+[Edit](./ss/3.png)
+[Lena](./ss/4.png)
